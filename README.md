@@ -1,11 +1,11 @@
 # COMPLIANCE-QUALITY-ASSURANCE-TESTS
-# 💧 Mini Estação Autônoma de Tratamento e Armazenamento de Água
+# Mini Estação Autônoma de Tratamento e Armazenamento de Água
 
 Um sistema portátil, inteligente e sustentável para tratar, armazenar e monitorar a qualidade da água em cenários críticos — como desastres naturais ou comunidades sem saneamento básico.
 
 ---
 
-## 🧠 Descrição do Projeto
+## Descrição do Projeto
 
 O projeto foi desenvolvido como parte da **Global Solution 2025/1 da FIAP**, com o objetivo de propor uma solução tecnológica e inovadora para enfrentar **eventos extremos da natureza**.
 
@@ -17,7 +17,7 @@ A solução combina:
 
 ---
 
-## 🎯 Público-Alvo
+## Público-Alvo
 
 - Regiões afetadas por enchentes e desastres naturais;
 - Comunidades rurais e favelas sem acesso à água tratada;
@@ -26,20 +26,20 @@ A solução combina:
 
 ---
 
-## 🌟 Funcionalidades
+## Funcionalidades
 
-- ✅ Filtragem física com areia, brita e carvão ativado
-- ✅ Desinfecção biológica com luz UV-C
-- ✅ Monitoramento via sensores (pH, turbidez, temperatura, nível de água)
-- ✅ Visualização de dados em dashboard e app mobile
-- ✅ Abastecimento por energia solar (com bateria)
-- ✅ Comunicação via ESP32 com MQTT/HTTP
-- ✅ API REST para centralização e histórico dos dados
-- ✅ Instalação rápida, sem necessidade de bomba ou infraestrutura elétrica
+- Filtragem física com areia, brita e carvão ativado
+- Desinfecção biológica com luz UV-C
+- Monitoramento via sensores (pH, turbidez, temperatura, nível de água)
+- Visualização de dados em dashboard e app mobile
+- Abastecimento por energia solar (com bateria)
+- Comunicação via ESP32 com MQTT/HTTP
+- API REST para centralização e histórico dos dados
+- Instalação rápida, sem necessidade de bomba ou infraestrutura elétrica
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## 🛠Tecnologias Utilizadas
 
 | Categoria                  | Ferramentas / Tecnologias               |
 |---------------------------|-----------------------------------------|
@@ -53,7 +53,7 @@ A solução combina:
 
 ---
 
-## 🧪 Arquitetura da Solução
+## Arquitetura da Solução
 
 Modelada segundo o framework **TOGAF**, utilizando a ferramenta **ARCHI**, contemplando:
 
@@ -62,11 +62,11 @@ Modelada segundo o framework **TOGAF**, utilizando a ferramenta **ARCHI**, conte
 - Arquitetura de sistemas: APIs, camadas de serviço e dados;
 - Arquitetura de tecnologia: rede, dispositivos, servidores e softwares.
 
-> 📁 Arquivos .archi e .pdf disponíveis na pasta `arquitetura/`.
+> Arquivos .archi e .pdf disponíveis na pasta `arquitetura/`.
 
 ---
 
-## 💰 Viabilidade Financeira
+## Viabilidade Financeira
 
 Estimativa de custo por unidade:
 
@@ -83,7 +83,7 @@ Estimativa de custo por unidade:
 
 ---
 
-## 📈 Impacto Esperado
+## Impacto Esperado
 
 - Redução do uso de galões de água em abrigos emergenciais;
 - Maior autonomia para comunidades carentes;
